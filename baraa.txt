@@ -1,0 +1,5 @@
+foam|skincare|55000.0|66000.0|11
+oil|skincare|35000.0|42000.0|12
+body scrub|bodycare|33000.0|39600.0|8
+shampoo|haircare|28000.0|33600.0|15
+mask|haircare|19000.0|22800.0|7
